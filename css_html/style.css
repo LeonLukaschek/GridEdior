@@ -1,0 +1,14 @@
+#container{
+    display: inline-block;
+}
+#container div div{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border: 0.5px solid black;
+    margin: 0.5px;
+}
+
+#wrapper{
+    text-align: center; 
+}
