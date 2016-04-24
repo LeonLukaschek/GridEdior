@@ -12,3 +12,13 @@
 #wrapper{
     text-align: center; 
 }
+
+.colored{
+    background-color: limegreen;
+}
+
+button{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    display: block;
+}
